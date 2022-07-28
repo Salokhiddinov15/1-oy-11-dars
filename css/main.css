@@ -1,0 +1,17 @@
+.btn{
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+}
+
+
+
+
+.btn-text1:hover{
+  background-color: blue;
+}
+
+.btn-text2:hover{
+  background-color: gold;
+}
+
